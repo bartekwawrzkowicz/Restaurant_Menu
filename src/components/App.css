@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.734), rgba(0, 0, 0, 0.646)),url('../images/meal.jpeg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+h1, h2 {
+  color: white;
+  text-shadow: 1px 1px 1px orange;
+  text-align: center;
+}
+
+h1 {
+  text-decoration: underline 1px orange;
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 40px;
+  color: white;
+  text-shadow: 1px 1px 1px orange;
+  text-align: center;
+}
+
+button {
+  margin: 20px 40px;
+  background-color: rgb(146, 95, 0);
+  color: white;
+  box-sizing: content-box;
+  transition: 0.5s;
+  cursor: pointer;
+  width: 10%;
+  height: 40px;
+  font-size: 14px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px white;  
+}
+
+button:hover {
+  background-color: black;
+  color: orange;
+  transition: 0.5s;
+}

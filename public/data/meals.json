@@ -1,0 +1,114 @@
+{
+        "restaurant": "meals",
+        "meals": [
+            {
+                "id": 1,
+                "name": "Crispy Tempura and Panko-Breaded Shrimps 6 pcs.",
+                "kind": "Starters",
+                "price": 27
+            },
+            {
+                "id": 2,
+                "name": "Panko-Breaded Camembert Cheese",
+                "kind": "Starters",
+                "price": 19
+            },
+            {
+                "id": 3,
+                "name": "Shrimps in Wine - Butter Souce 9 pcs.",
+                "kind": "Starters",
+                "price": 38
+            },
+            {
+                "id": 4,
+                "name": "Beef Carpaccio",
+                "kind": "Starters",
+                "price": 34
+            },
+            {
+                "id": 5,
+                "name": "Minute Steak",
+                "kind": "Steaks",
+                "price": 40
+            },
+            {
+                "id": 6,
+                "name": "Argentine Beef Rib-Eye Steak",
+                "kind": "Steaks",
+                "price": 59
+            },
+            {
+                "id": 7,
+                "name": "New York Steak",
+                "kind": "Steaks",
+                "price": 57
+            },
+            {
+                "id": 8,
+                "name": "Deluxe Burger",
+                "kind": "Burgers",
+                "price": 31
+            },
+            {
+                "id": 9,
+                "name": "Cheese Burger",
+                "kind": "Burgers",
+                "price": 28
+            },
+            {
+                "id": 10,
+                "name": "Classic Burger",
+                "kind": "Burgers",
+                "price": 26
+            },
+            {
+                "id": 11,
+                "name": "Ceasar Salad",
+                "kind": "Salads",
+                "price": 23
+            },
+            {
+                "id": 12,
+                "name": "Florida Salad",
+                "kind": "Salads",
+                "price": 22
+            },
+            {
+                "id": 13,
+                "name": "Shrimp Salad",
+                "kind": "Salads",
+                "price": 24
+            },
+            {
+                "id": 14,
+                "name": "Grilled Chicken breast",
+                "kind": "Specials",
+                "price": 34
+            },
+            {
+                "id": 15,
+                "name": "Fish & Chips",
+                "kind": "Specials",
+                "price": 33
+            },
+            {
+                "id": 16,
+                "name": "Our Famous Meatloaf",
+                "kind": "Specials",
+                "price": 30
+            },
+            {
+                "id": 17,
+                "name": "Sea Scallops",
+                "kind": "Specials",
+                "price": 38
+            },
+            {
+                "id": 18,
+                "name": "Fish - catch of the day!",
+                "kind": "Specials",
+                "price": 32
+            }
+
+        ]
+    }
